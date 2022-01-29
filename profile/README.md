@@ -1,5 +1,6 @@
 # WaifuWare
 We are a very basic github organisation aimed at cyber security and messing with bad code and deobfuscation
+<img src="https://cdn.discordapp.com/attachments/921480719153365022/936785890754302032/Screenshot_20220122_231146.jpg" height="100" />
 
 # Former Members
 <ul>
