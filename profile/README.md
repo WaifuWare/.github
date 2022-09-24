@@ -1,6 +1,5 @@
 # WaifuWare
 We are a very basic github organisation aimed at cyber security and messing with bad code and deobfuscation<br>
-<img src="https://cdn.discordapp.com/attachments/921480719153365022/936785890754302032/Screenshot_20220122_231146.jpg" />
 
 # Former Members
 <ul>
@@ -9,12 +8,6 @@ We are a very basic github organisation aimed at cyber security and messing with
     <li><a href="https://github.com/GayrraFrost">NotFubukii</a></li>
     <li><a href="https://github.com/Neit">Neit</a></li>
 </ul>
-
-# Pinned Members Repositories
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TaxMachine&repo=PowershellTokenGrabberV2&title_color=00C800&text_color=00C800&border_color=9600AC&bg_color=DEG,4D0094,7C0094,9F00C7" height="140"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SomeBoringNerd&repo=throughthedark&title_color=00C800&text_color=00C800&border_color=9600AC&bg_color=DEG,4D0094,7C0094,9F00C7" height="120"/>
-</div>
 
 # Donations
 
