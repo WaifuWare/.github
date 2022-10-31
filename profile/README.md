@@ -1,11 +1,11 @@
 # WaifuWare
 We are a very basic github organisation aimed at cyber security and messing with bad code and deobfuscation<br>
 
-# Former Members
+# Current Members
 <ul>
     <li><a href="https://github.com/TaxMachine">TaxMachine</a></li>
     <li><a href="https://github.com/SomeBoringNerd">SomeBoringNerd</a></li>
-    <li><a href="https://github.com/GayrraFrost">NotFubukii</a></li>
+    <li><a href="https://github.com/NotFubukIl">NotFubukii</a></li>
     <li><a href="https://github.com/Neit">Neit</a></li>
 </ul>
 
@@ -15,7 +15,6 @@ We are a very basic github organisation aimed at cyber security and messing with
 >**ETH**: `0xF583244C94298605f1e6104ABEC573a3b14b9a17`
 
 ### **SomeBoringNerd**
->**ETH**: `0xfd3753De9Fd59BAeD6117C36258e0363B678Ea5f`<br>
 >**Paypal**: <code>https://paypal.me/SomeBoringNerd</code><br>
 
 ### **NotFubukii**
