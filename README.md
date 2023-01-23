@@ -25,7 +25,7 @@ We are a very basic github organisation aimed at cyber security and messing with
 >**ETH**: `0xF583244C94298605f1e6104ABEC573a3b14b9a17`
 
 ### **SomeBoringNerd**
->**ETH**: `0xfd3753De9Fd59BAeD6117C36258e0363B678Ea5f`<br>
+>**Website**: <code>https://someboringnerd.xyz</code><br>
 >**Paypal**: <code>https://paypal.me/SomeBoringNerd</code><br>
 
 ### **NotFubukii**
