@@ -7,6 +7,7 @@ We are a very basic github organisation aimed at cyber security and messing with
     <li><a href="https://github.com/SomeBoringNerd">SomeBoringNerd</a></li>
     <li><a href="https://github.com/GayrraFrost">NotFubukii</a></li>
     <li><a href="https://github.com/Neit">Neit</a></li>
+    <li><a href="https://github.com/TanevAZ">TanevAZ</a></li>
 </ul>
 
 # Pinned Members Repositories
@@ -14,8 +15,8 @@ We are a very basic github organisation aimed at cyber security and messing with
     <a href="https://github.com/TaxMachine/PowershellTokenGrabberV2">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=TaxMachine&repo=PowershellTokenGrabberV2&title_color=00C800&text_color=00C800&border_color=9600AC&bg_color=DEG,4D0094,7C0094,9F00C7" height="140"/>
     </a>
-    <a href="https://github.com/SomeBoringNerd/throughthedark">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SomeBoringNerd&repo=throughthedark&title_color=00C800&text_color=00C800&border_color=9600AC&bg_color=DEG,4D0094,7C0094,9F00C7" height="140"/>
+    <a href="https://github.com/SomeBoringNerd/SomeBoringImageHost">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SomeBoringNerd&repo=SomeBoringImageHost&title_color=00C800&text_color=00C800&border_color=9600AC&bg_color=DEG,4D0094,7C0094,9F00C7" height="140"/>
     </a>
 </div>
 
@@ -25,7 +26,7 @@ We are a very basic github organisation aimed at cyber security and messing with
 >**ETH**: `0xF583244C94298605f1e6104ABEC573a3b14b9a17`
 
 ### **SomeBoringNerd**
->**ETH**: `0xfd3753De9Fd59BAeD6117C36258e0363B678Ea5f`<br>
+>**Website**: <code>https://someboringnerd.xyz</code><br>
 >**Paypal**: <code>https://paypal.me/SomeBoringNerd</code><br>
 
 ### **NotFubukii**
